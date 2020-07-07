@@ -1,17 +1,13 @@
-<%-- 
-    Document   : index
-    Created on : 6/07/2020, 08:01:06 PM
-    Author     : Renata
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Inicio</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+    <center><h1>Bienvenido a Estéticas AUX</h1>
+    <img src="https://www.jvingenieria.cl/construccion.jpg">
+    </center>
     </body>
 </html>
